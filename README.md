@@ -1,6 +1,6 @@
 # Pyomo-Introduction
 
-Pyomo is an open-source optimization modeling language for Python, this repo is my first attempts of optimization using the folowing packages:
+Pyomo is an open-source optimization modeling language for Python, this repo involves building small and large scale models with the folowing packages:
 
 1. CBC: For solving linear programs and mixed integer linear programs.
 2. Ipopt: Suited for nonlinear programs, even those that are nonconvex.
